@@ -23,8 +23,8 @@ global.language = english  //change indonesia to english if you don't understand
 
 
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.botname = "Juntakbot-Mdོ" //namabot kalian
+global.ownername= "ᴹᴿ᭄ JuntakOfcོ ×፝֟͜×" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
@@ -35,7 +35,7 @@ global.owner = ["6288708439726","6282165449262"] //ganti agar fitur owner bisa d
 global.ownernomer = "6288708439726" // nomor wa kalian
 global.ownernomerr = "+6288708439726" //nmr wa kalian
 global.thumbnail = "./image/Transformers Autobot Logo Poster at AllPosters_com ….jpeg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
+global.donasi = "./image/Screenshot_20220710_064210.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 
 global.packname = '© Juntakbot-Mdོ' //sticker wm ubah
